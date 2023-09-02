@@ -1,0 +1,25 @@
+.body{
+    position: relative;
+}
+
+
+.conf{
+   background-color: brown;
+   padding: 9px;
+   align-items: center;
+   color: aliceblue;
+   border-radius: 7px;
+   margin-top: 10%;
+   margin-left: 40%;
+}
+
+
+.share{
+    background-color: rgb(104, 72, 235);
+    padding: 9px;
+    align-items: center;
+    color: aliceblue;
+    border-radius: 7px;
+    margin-top: 20%;
+    margin-left: 40%;
+ }
